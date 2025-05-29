@@ -1,4 +1,4 @@
-# n8n-templates
+# n8n template
 Template-uri de n8n Testate si modulele aferente daca este necesar
 
 # n8n Config
